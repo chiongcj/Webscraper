@@ -1,0 +1,82 @@
+[
+    {
+        "Airline": "Delta",
+        "Flight Number": "DAL932",
+        "Aircraft Type": "BCS1",
+        "Flight Status": "Scheduled (in 13 hours 4 minutes)",
+        "Scheduled Departure Time": "Tue 01:35PM\u00a0PST",
+        "Scheduled Arrival Time": "04:38PM\u00a0MST Tue"
+    },
+    {
+        "Airline": "Delta",
+        "Flight Number": "DAL2765",
+        "Aircraft Type": "BCS1",
+        "Flight Status": "Scheduled (in 6 hours 29 minutes)",
+        "Scheduled Departure Time": "Tue 07:00AM\u00a0PST",
+        "Scheduled Arrival Time": "10:05AM\u00a0MST Tue"
+    },
+    {
+        "Airline": "Delta",
+        "Flight Number": "DAL932",
+        "Aircraft Type": "BCS1",
+        "Flight Status": "Arrived / Gate Arrival",
+        "Scheduled Departure Time": "Mon 01:35PM\u00a0PST",
+        "Scheduled Arrival Time": "04:38PM\u00a0MST Mon"
+    },
+    {
+        "Airline": "NetJets Aviation \"Execjet\"",
+        "Flight Number": "EJA690",
+        "Aircraft Type": "C68A",
+        "Flight Status": "Arrived",
+        "Scheduled Departure Time": "Mon 10:00AM\u00a0PST",
+        "Scheduled Arrival Time": "02:59PM\u00a0MST Mon"
+    },
+    {
+        "Airline": "Delta",
+        "Flight Number": "DAL1066",
+        "Aircraft Type": "BCS1",
+        "Flight Status": "Arrived / Gate Arrival",
+        "Scheduled Departure Time": "Sun 05:05PM\u00a0PST",
+        "Scheduled Arrival Time": "08:04PM\u00a0MST Sun"
+    },
+    {
+        "Airline": "Air Transport \"Coyote\"",
+        "Flight Number": "CYO420",
+        "Aircraft Type": "LJ60",
+        "Flight Status": "Arrived",
+        "Scheduled Departure Time": "Sun 11:00AM\u00a0PST",
+        "Scheduled Arrival Time": "02:34PM\u00a0MST Sun"
+    },
+    {
+        "Airline": "Delta",
+        "Flight Number": "DAL2390",
+        "Aircraft Type": "BCS1",
+        "Flight Status": "Arrived / Gate Arrival",
+        "Scheduled Departure Time": "Sun 08:15AM\u00a0PST",
+        "Scheduled Arrival Time": "11:21AM\u00a0MST Sun"
+    },
+    {
+        "Airline": "Delta",
+        "Flight Number": "DAL2765",
+        "Aircraft Type": "BCS1",
+        "Flight Status": "Arrived / Gate Arrival",
+        "Scheduled Departure Time": "Sat 07:00AM\u00a0PST",
+        "Scheduled Arrival Time": "10:05AM\u00a0MST Sat"
+    },
+    {
+        "Airline": "Silver Air \"Silver Speed\"",
+        "Flight Number": "SIS631",
+        "Aircraft Type": "CL30",
+        "Flight Status": "Arrived",
+        "Scheduled Departure Time": "Fri 10:55AM\u00a0PST",
+        "Scheduled Arrival Time": "01:57PM\u00a0MST Fri"
+    },
+    {
+        "Airline": "J JETS INC",
+        "Flight Number": "N26ME",
+        "Aircraft Type": "H25B",
+        "Flight Status": "Arrived",
+        "Scheduled Departure Time": "Wed 01:30PM\u00a0PST",
+        "Scheduled Arrival Time": "04:22PM\u00a0MST Wed"
+    }
+]
